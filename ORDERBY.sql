@@ -1,0 +1,4 @@
+SELECT *
+FROM ALL_DATA_2019
+ORDER BY Order_Date;
+

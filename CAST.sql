@@ -1,0 +1,2 @@
+SELECT CAST(Product AS VARCHAR (50)) AS Product
+FROM May;
